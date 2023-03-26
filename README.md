@@ -37,7 +37,7 @@ Fields of interests |
 Web Development | 
 UI/UX | 
 DevOps |
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ouassima-akasmiou-a7a6a0230)
+<!--:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ouassima-akasmiou-a7a6a0230) -->
 
 ### :hammer_and_wrench: Some Tools I Have Used and Learned :
 <div>
