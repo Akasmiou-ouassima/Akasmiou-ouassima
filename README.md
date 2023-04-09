@@ -23,11 +23,11 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" align="center"/>
 </div>
 <h1 align="center"> Let's Connect and have a Chat! </h1>
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/ouassima-akasmiou-a7a6a0230" target="blank" ><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ouassima-akasmiou-a7a6a0230" height="30" width="40" /></a>
 
-<a href="https://twitter.com/akasmiou21" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akasmiou21" height="30" width="40" /></a>
-</p>
+<!--<a href="https://twitter.com/akasmiou21" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akasmiou21" height="30" width="40" /></a> -->
+</div>
 
 ### :woman_technologist: About Me :
 :woman_student:I'm AKASMIOU Ouassima, a Software Engineering Student at Enset Mohammedia.<br  />
