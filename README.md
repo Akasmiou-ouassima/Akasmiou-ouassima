@@ -1,8 +1,12 @@
 
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="50px"/>
-</h1>
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D61355&height=120&section=header"/>
+</a>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D61355&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Ouassima+AKASMIOU;I'm+from+Morocco;I'm+a+Software+Engineering+Student;Be+Welcome!+ツ)
+
+  
+
 
 
 <!--
@@ -22,14 +26,23 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" align="center"/>
 </div>
-<h1 align="center"> Let's Connect and have a Chat! </h1>
-<div align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ouassima-akasmiou-a7a6a0230" target="blank" ><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ouassima-akasmiou-a7a6a0230" height="30" width="40" /></a>
-
-<!--<a href="https://twitter.com/akasmiou21" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akasmiou21" height="30" width="40" /></a> -->
+<h1 align="center"> Let's Connect and have a Chat!<img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="50px"/> </h1>
+<div> 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ouassima-akasmiou-a7a6a0230/"><img title="linkedin.com/in/ouassima.akasmiou/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+	<a href="https://www.instagram.com/ouassima_akasmiou/"><img title="instagram.com/ouassima.akasmiou/" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+    </a>
+	<a href="https://www.facebook.com/florita.wassimita"><img title="facebook.com/ouassima.akasmiou" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+    </a>
+    	<a href="https://twitter.com/Akasmiou21"><img title="twitter.com/ouassima.akasmiou" src="https://img.shields.io/badge/Twitter-%231888F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+    </a>
+	<a href=""><img title="" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+  </p>
 </div>
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me : 
 :woman_student:I'm AKASMIOU Ouassima, a Software Engineering Student at Enset Mohammedia.<br  />
 😄I am passionate about web development and consider myself a lifelong learner in this field. As a coding enthusiast, I love tinkering with the latest technologies and frameworks to create dynamic, responsive, and visually appealing web applications. Whether it's front-end design, back-end development, or full-stack integration, I'm always eager to dive in and explore new possibilities.<br  />
 :writing_hand:In my free time, I love learn new things.<br  />
@@ -42,28 +55,25 @@ DevOps |
 <!--:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ouassima-akasmiou-a7a6a0230) -->
 
 ### :hammer_and_wrench: Some Tools I Have Used and Learned :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDb" **alt="MongoDb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" **alt="Oracle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" **alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
+<div style="display: inline_block">
+  <p align="center">
+	<a href="#">
+      <img align="center" src="https://skillicons.dev/icons?i=js,nodejs,php,laravel,java,spring,flutter,mysql,firebase,git,figma,css,bootstrap,html,c++,docker,mongodb,oracle,redis,postman,linux,matlab,c,angular" />
+    </a>
+  </p>
 </div>
+
 <h1> :fire: My Stats :</h1>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akasmiou-ouassima&show_icons=true&locale=en&layout=compact" alt="akasmiou-ouassima" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akasmiou-ouassima&show_icons=true&locale=en" alt="akasmiou-ouassima" /></p>
-
-
+<div align="center">
+  <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akasmiou-ouassima&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+  </a>
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akasmiou-ouassima&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+  </a>
+  <a>
+     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akasmiou-ouassima&theme=github_dark&show_icons=true" />
+  </a>
+</div> 
