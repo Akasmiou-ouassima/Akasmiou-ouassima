@@ -77,8 +77,4 @@ DevOps |
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akasmiou-ouassima&theme=github_dark&show_icons=true" />
   </a>
 </div> 
-<div align="center">
 
-  ![AYYYYYYYYYYYY](https://github.com/AKASMIOU Ouassima/AKASMIOU Ouassima/blob/output/github-contribution-grid-snake.svg)
-
-</div>
