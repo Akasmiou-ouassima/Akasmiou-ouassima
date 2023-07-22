@@ -5,27 +5,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D61355&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Ouassima+AKASMIOU;I'm+from+Morocco;I'm+a+Software+Engineering+Student;Be+Welcome!+ツ)
 
-  
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akasmiou-ouassima&theme=juicyfresh&margin-w=15" alt="ouassima" /></a> </p>
 
 
-
-<!--
-**Akasmiou-ouassima/Akasmiou-ouassima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" align="center"/>
-</div>
 <h1 align="center"> Let's Connect and have a Chat!<img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" width="50px"/> </h1>
 <div> 
   <p align="center">
