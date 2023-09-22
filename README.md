@@ -53,6 +53,7 @@ DevOps |
   <a href="#">
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akasmiou-ouassima&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
   </a>
+	
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akasmiou-ouassima&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </a>
@@ -60,4 +61,6 @@ DevOps |
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akasmiou-ouassima&theme=github_dark&show_icons=true" />
   </a>
 </div> 
-
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D61355&height=120&section=footer"/>
+</a>
