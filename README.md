@@ -26,10 +26,13 @@
 </div>
 
 ### :woman_technologist: About Me : 
-:woman_student:I'm AKASMIOU Ouassima, a Software Engineering Student at Enset Mohammedia.<br  />
-😄I am passionate about web development and consider myself a lifelong learner in this field. As a coding enthusiast, I love tinkering with the latest technologies and frameworks to create dynamic, responsive, and visually appealing web applications. Whether it's front-end design, back-end development, or full-stack integration, I'm always eager to dive in and explore new possibilities.<br  />
-:writing_hand:In my free time, I love learn new things.<br  />
-:information_desk_person:My interests:<br  />
+>  :woman_student: **I'm AKASMIOU Ouassima, a Software Engineering Student at Enset Mohammedia.**<br  />
+
+> 😄**I am passionate about web development and consider myself a lifelong learner in this field. As a coding enthusiast, I love tinkering with the latest technologies and frameworks to create dynamic, responsive, and visually appealing web applications. Whether it's front-end design, back-end development, or full-stack integration, I'm always eager to dive in and explore new possibilities.**<br  />
+
+> :writing_hand:**In my free time, I love learn new things.**<br  />
+
+:information_desk_person:**My interests:**<br  />
 Fields of interests |
 ------------ | 
 Web Development | 
