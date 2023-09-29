@@ -45,7 +45,7 @@ DevOps |
 <div style="display: inline_block">
   <p align="center">
 	<a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=js,nodejs,php,laravel,java,spring,flutter,mysql,firebase,git,figma,css,bootstrap,html,c++,docker,mongodb,redis,postman,linux,matlab,c,angular,ci/cd,github actions,junit,docker,postgreeSql" />
+      <img align="center" src="https://skillicons.dev/icons?i=js,nodejs,php,laravel,java,spring,flutter,mysql,firebase,git,figma,css,bootstrap,html,c++,docker,mongodb,redis,postman,linux,matlab,c,angularl" />
     </a>
   </p>
 </div>
